@@ -74,25 +74,6 @@ The **Live Pulse Detector** is a standalone embedded system that:
 
 ---
 
-## 📁 Project Structure
-
-```
-live-pulse-detector/
-│
-├── src/
-│   └── pulse_detector.ino      # Main Arduino sketch
-│
-├── hardware/
-│   └── pulse_detector.jpg      # Photo of assembled hardware
-│
-├── docs/
-│   └── CODE_OF_LIVE_PULSE_DETECTOR.pdf   # Original source reference
-│
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
