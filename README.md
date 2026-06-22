@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Project Demo
-
-(./pulse_detector.jpg)
-
----
-
 ## 🧠 What It Does
 
 The **Live Pulse Detector** is a standalone embedded system that:
